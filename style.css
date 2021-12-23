@@ -29,7 +29,7 @@ body {
 
 .page-footer .container {
   max-width: 1408px;
-  text-align: right;
+  text-align: center;
 }
 
 .page-header a {
@@ -186,7 +186,7 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: center;
-  text-align: right;
+  text-align: center;
 }
 
 .footer-tg {
