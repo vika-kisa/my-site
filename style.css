@@ -29,7 +29,7 @@ body {
 
 .page-footer .container {
   max-width: 1408px;
-  text-align: right;
+  text-align: center;
 }
 
 .page-header a {
@@ -191,12 +191,12 @@ body {
 }
 
 .footer-tg {
-  padding-left: 140px;
+  padding-left: 145px;
   background-image: url(img/icon-tg.svg);
 }
 
 .footer-vk {
-  padding-left: 140px;
+  padding-left: 145px;
   background-image: url("img/vk-2.png");
 }
 
